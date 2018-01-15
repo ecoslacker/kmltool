@@ -13,6 +13,10 @@
   <property name="windowTitle">
    <string>KmlTool</string>
   </property>
+  <property name="windowIcon">
+   <iconset resource="resources.qrc">
+    <normaloff>:/images/icons/16x16/google_earth.png</normaloff>:/images/icons/16x16/google_earth.png</iconset>
+  </property>
   <widget class="QWidget" name="centralWidget">
    <layout class="QVBoxLayout" name="verticalLayout">
     <item>

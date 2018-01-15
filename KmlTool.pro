@@ -43,3 +43,7 @@ FORMS += \
 
 RESOURCES += \
     resources.qrc
+
+RC_FILE = KmlTool.rc
+
+ICON = google_earth.icns

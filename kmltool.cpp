@@ -8,7 +8,7 @@ KmlTool::KmlTool(QWidget *parent) :
     ui->setupUi(this);
 
     // Set window icon
-    QIcon winIcon(":/images/icons/16x16/Earth-icon.png");
+    QIcon winIcon(":/images/icons/16x16/google_earth.png");
     this->setWindowIcon(winIcon);
 
     connect(ui->browseButton, SIGNAL(pressed()),       SLOT(selectFileName()));
