@@ -36,7 +36,7 @@ The procedure to retrieve coordinates from a KML file is very simple.
 * Use the browse button (the one with the three dots "...") to locate a file from your computer, only KML files can be selected.
 * You can also use the menu **File > Open**
 * The path and name of the selected file will appear in the text field.
-* Use button *Retrieve* to extract the coordinates from the selected KML file.
+* Use button **Retrieve** to extract the coordinates from the selected KML file.
 * The text of the coordinates should appear in the text field below.
 * You can copy, edit or save the coordinates as desired.
 * To save the coordinates to a text file use the menu **File > Save**
@@ -47,7 +47,7 @@ The procedure to retrieve coordinates from a KML file is very simple.
 
 Retrieve coordinates from a KML file
 
-Copyright (C) 2018 Eduardo Jiménez <ecoslacker@irriapps.com>
+Copyright (C) 2018 Eduardo Jiménez <[ecoslacker@irriapps.com]>
 
 This program is free software; you can redistribute it and/or modify it
 under the terms of the GNU General Public License as published by the Free
